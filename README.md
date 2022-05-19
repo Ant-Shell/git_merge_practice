@@ -1,3 +1,3 @@
 #HEADING
 
-+ Add a line
+merge conflict!
